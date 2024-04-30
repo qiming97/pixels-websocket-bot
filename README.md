@@ -1,6 +1,7 @@
 # play.pixels.xyz 纯webscoket协议/ play.pixels.xyz websocket protocol
 # 一套的加密解密算法 以及浏览器插件hook收发原始明文数据 / A set of encryption and decryption algorithms and browser plug-in hooks to send and receive raw plaintext data
 
+## 包含 need-recaptcha 账号重连解决方案/including need-recaptcha reconnect solution
 
 ## 浏览器插件hook / Browser plug-in hooks
 ![PddScreenShot_20240425163933](https://github.com/qiming97/pixels-/assets/58248658/27bc082a-c70e-49f1-bf41-a1cca11381fc)
